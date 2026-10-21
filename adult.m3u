@@ -1,21 +1,15 @@
 #Chinese 
+#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="DAERAH",TVRI Jawa Timur
 https://iptv-org.github.io/iptv/languages/zho.m3u
 
 #English 
+#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="DAERAH",TVRI Jawa Timur
 https://iptv-org.github.io/iptv/languages/eng.m3u
 
 #Japanse
+#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="DAERAH",TVRI Jawa Timur
 https://iptv-org.github.io/iptv/languages/jpn.m3u
 
-
-#Cooking
-https://iptv-org.github.io/iptv/categories/cooking.m3u
-
-#Culture
-https://iptv-org.github.io/iptv/categories/culture.m3u
-
-#Sport
-https://iptv-org.github.io/iptv/categories/sports.m3u
 
 #Adult
 https://iptv-org.github.io/iptv/categories/xxx.m3u
