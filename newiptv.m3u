@@ -1,0 +1,277 @@
+#EXTM3U
+
+# ==========================================
+# GROUP: AGAMA
+# ==========================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",Al Quran Al Kareem
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="AGAMA",SAUDI SUNNAH TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/01.m3u8
+
+#EXTINF:-1 group-title="AGAMA",SURAU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://flv.intechmedia.net/live/ch3.m3u
+
+# ==========================================
+# GROUP: ANAK
+# ==========================================
+#EXTINF:-1 tvg-name="ANIMAX" group-title="ANAK",Animax
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oGOYJ4VH4AfQGdGS2EXGFE
+
+#EXTINF:-1 tvg-id="Animax" group-title="ANAK",Animax HD
+https://cdn1.wewatch.asia/b3A9WTJsa1BUazNNVFJHUXpsRE1qWTBNRFEzTkRBNU9URkRORUl3TVRWR01VWkVRakV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw==/1080P_h264_master.m3u8
+
+#EXTINF:-1 tvg-id="ebskids.kr" tvg-logo="https://i.imgur.com/KqLYir2.jpeg" group-title="ANAK",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVMAQA2.jpeg" group-title="ANAK",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",NICK JR
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
+
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",Nick Jr (INDO)
+https://filexott.uk:8443/live/ahsan627/62627288292/302289.ts
+
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",Nick Jr. Pluto TV (USA)
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",NICKELODEON
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Nickelodeon (INDO)
+https://filexott.uk:8443/live/ahsan627/62627288292/302290.ts
+
+#EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Nickelodeon Pluto TV (USA)
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-id="zoomoo.sg" tvg-logo="https://i.imgur.com/x7vBeiA.jpeg" group-title="ANAK",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+# ==========================================
+# GROUP: DAERAH
+# ==========================================
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1BWb.png" group-title="DAERAH",TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Ae1.png" group-title="DAERAH",TVRI Gorontalo
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmF17zg.png" group-title="DAERAH",TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="DAERAH",TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1822.png" group-title="DAERAH",TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmF16hu.png" group-title="DAERAH",TVRI Sulawesi Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Fe9.png" group-title="DAERAH",TVRI Sulawesi Utara
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1357.png" group-title="DAERAH",TVRI Sumatera Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmF12JS.png" group-title="DAERAH",TVRI Sumatera Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Csj.png" group-title="DAERAH",TVRI Yogyakarta
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+
+# ==========================================
+# GROUP: FILM
+# ==========================================
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/axn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gm9NeNp.jpeg" group-title="FILM",Cinemax Asia
+https://filexott.uk:8443/live/ahsan627/62627288292/302227.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="FILM",Cinemax ID
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
+
+#EXTINF:-1 tvg-id="hbo.id" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="FILM",HBO
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/HBO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="FILM",HBO (Super Spork)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="FILM",HBO Asia
+https://filexott.uk:8443/live/ahsan627/62627288292/302248.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKGDvns.jpeg" group-title="FILM",HBO Family Asia
+https://filexott.uk:8443/live/ahsan627/62627288292/302249.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T5qTF1M.jpeg" group-title="FILM",HBO Family ID
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
+
+#EXTINF:-1 tvg-id="hbohits.id" tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="FILM",HBO Hits
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Hbohits.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="FILM",HBO Hits Asia
+https://filexott.uk:8443/live/ahsan627/62627288292/302250.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lUGmy0.jpeg" group-title="FILM",HBO Hits ID
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="FILM",HBO ID
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ChwEYqK.jpeg" group-title="FILM",HBO Signature Asia
+https://filexott.uk:8443/live/ahsan627/62627288292/302251.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1BefgAg.jpeg" group-title="FILM",HBO Signature ID
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
+
+#EXTINF:-1 tvg-id="RockAction" tvg-logo="https://i.imgur.com/RpNx07x.png" group-title="FILM",ROCK ACTION (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
+
+#EXTINF:-1 tvg-id="RockEnt" group-title="FILM",Rock Entertainment (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
+
+#EXTINF:-1 tvg-id="Thrill" tvg-logo="https://i.imgur.com/YxDN47W.jpeg" group-title="FILM",Thrill
+https://iptv.lancartech.co.id:443/WawanJKT82/12345678/57
+
+# ==========================================
+# GROUP: NASIONAL
+# ==========================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sHTGdK6.jpeg" group-title="NASIONAL",BTV (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/btv/index.m3u8
+
+#EXTINF:-1 tvg-id="Cnbc Indonesia Channelfeed" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Cnn Indonesia Channelfeed" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",GTV (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+
+#EXTINF:-1 tvg-id="INews.id" tvg-logo="https://i.imgur.com/NTYY97h.jpeg" group-title="NASIONAL",iNews (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/AE6rBhB.jpeg" group-title="NASIONAL",Kompas TV (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/kompas/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/ydZkp17.jpeg" group-title="NASIONAL",Metro TV (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/metrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="NASIONAL",MNCTV HD (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+
+#EXTINF:-1 tvg-id="itzplay.id" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="NASIONAL",RCTI (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/LoyaFMC.jpeg" group-title="NASIONAL",RTV (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rtv/index.m3u8
+
+#EXTINF:-1 tvg-id="7" group-title="NASIONAL",TRANS 7 (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
+
+#EXTINF:-1 tvg-id="6" group-title="NASIONAL",TRANS TV (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id@SD" tvg-logo="https://i.imgur.com/KHkGHFc.jpeg" group-title="NASIONAL",Trans7 DTK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id@SD" tvg-logo="https://i.imgur.com/ZiEnl6a.jpeg" group-title="NASIONAL",TransTV DTK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/0TDfyNw.jpeg" group-title="NASIONAL",TV One (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/tvone/index.m3u8
+
+#EXTINF:-1 tvg-id="16" group-title="NASIONAL",TVRI (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/tvri/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZ1Y89G.jpeg" group-title="NASIONAL",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",VTV
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
+
+# ==========================================
+# GROUP: PENGETAHUAN
+# ==========================================
+#EXTINF:-1 tvg-id="BBCEarth.id" tvg-logo="https://i.imgur.com/V9vxwiF.png" group-title="PENGETAHUAN",BBC EARTH (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.id" tvg-logo="https://i.imgur.com/e9R8H1H.png" group-title="PENGETAHUAN",CGTN DOCUMENTARY (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/cgtn/index.m3u8
+
+#EXTINF:-1 tvg-id="mjh-sky-hgtv" tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="PENGETAHUAN",HGTV US HD
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+https://i.mjh.nz/.r/sky-hgtv.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-logo="https://i.imgur.com/EtojTwF.png" group-title="PENGETAHUAN",HISTORY (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/history/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hA58ewv.png" group-title="PENGETAHUAN",LOVE NATURE (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/lovenature/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9meezQ.png" group-title="PENGETAHUAN",OUTDOOR AMERICA (ENG SUB)
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-logo="https://i.imgur.com/MYU4dyd.png" group-title="PENGETAHUAN",OUTDOOR CHANNEL (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/outdoor/index.m3u8
+
+#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="PENGETAHUAN",REAL WILD (ENG SUB)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4RHMf2g.png" group-title="PENGETAHUAN",TRAVEL XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
